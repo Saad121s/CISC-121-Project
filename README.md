@@ -58,7 +58,11 @@ I fixed it by finding a way to normalize the numbers so everytime there is a neg
    Example: 6, 1, 3, 15, 10
 3. **Start Sorting:** Click the orange Sort button.
 4. **Watch the Animation** 
-   
+
+## Demo of Insertion Sort
+
+![GIF of Demo](InsertionSortDemo.mp4)
+
 ## Hugging Face Link
 
 https://huggingface.co/spaces/Saad121s/Insertion-Sort 
