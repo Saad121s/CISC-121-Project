@@ -20,11 +20,11 @@ We assume that the elements input are only integers to simplify the process.
 **Algorithm Design:**
 Input: a list of integers
 Process: 
- Start from the the second element
- Store the element in a variable
- Compare the variable to the previous element
- If the left element is bigger shift right if not shift left
- Repeat this process until the integers in the list sorted
+ Start from the the second element.
+ Store the element in a variable.
+ Compare the variable to the previous element.
+ If the left element is bigger shift right if not shift left.
+ Repeat this process until the integers in the list sorted.
 Output: The same list of integers but sorted
 
 ## Testing & Verification 
