@@ -31,16 +31,19 @@ Testing & Verification
 Best Case: 
 Input: 1, 2, 3, 4, 5
 Since the integers in the list are already sorted it will have a time complexity of On and the program finishes without moving a single piece.
+
 ![Best Case](1st%20Case.png)
 
 Worst Case: 
 Input: 5, 4, 3, 2, 1
 This is the worst possible case of On^2 complexity where all the integers are in reverse order, so it must take longer to solve and it does when tested. 
+
 ![Worst Case](2nd%20Case.png)
 
 Doubles and Negatives:
 Input: 5, -10, 5, 20, -10
 Although the code efficiently handled this case the visual was a bit messed up because the negative numbers would make the bar upside down
+
 ![Doubles and Negatives](3rd%20Case.png)
 
 
