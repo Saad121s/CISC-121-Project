@@ -31,7 +31,7 @@ Testing & Verification
 Best Case: 
 Input: 1, 2, 3, 4, 5
 Since the integers in the list are already sorted it will have a time complexity of On and the program finishes without moving a single piece.
-![Description of Image](Fixed.png)
+
 
 Worst Case: 
 Input: 5, 4, 3, 2, 1
@@ -41,8 +41,11 @@ This is the worst possible case of On^2 complexity where all the integers are in
 Doubles and Negatives:
 Input: 5, -10, 5, 20, -10
 Although the code efficiently handled this case the visual was a bit messed up because the negative numbers would make the bar upside down
+![Doubles and Negatives](3rd Case.png)
 
 
 I fixed it by finding a way to normalize the numbers so everytime there is a negative number the rest of the code the numbers representing the bar graphing are shifted up, preventing the columns from hanging upside down.
+
+![Description of Image](Fixed.png)
 
 
