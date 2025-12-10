@@ -62,3 +62,6 @@ I fixed it by finding a way to normalize the numbers so everytime there is a neg
 ## Hugging Face Link
 
 https://huggingface.co/spaces/Saad121s/Insertion-Sort 
+
+## Author & Acknowledgment
+Created by Saad Butt for CISC-121.
