@@ -61,7 +61,7 @@ I fixed it by finding a way to normalize the numbers so everytime there is a neg
 
 ## Demo of Insertion Sort
 
-![GIF of Demo](InsertionSortDemo.mp4)
+https://github.com/user-attachments/assets/6407478c-3ac0-4e66-85a9-1d1f381e0ffd
 
 ## Hugging Face Link
 
