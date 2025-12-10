@@ -52,4 +52,13 @@ I fixed it by finding a way to normalize the numbers so everytime there is a neg
 
 ![Description of Image](Fixed.png)
 
+## Steps to Run
+1. **Open the App:** Click the Hugging Face link provided below to open the live application.
+2. **Enter Input:** In the "Enter Numbers" text box, type a list of integers separated by commas.
+   Example: 6, 1, 3, 15, 10
+3. **Start Sorting:** Click the orange Sort button.
+4. **Watch the Animation** 
+   
+## Hugging Face Link
 
+https://huggingface.co/spaces/Saad121s/Insertion-Sort 
