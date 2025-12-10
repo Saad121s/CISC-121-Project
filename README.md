@@ -50,7 +50,7 @@ Although the code efficiently handled this case the visual was a bit messed up b
 **The Fix:**
 I fixed it by finding a way to normalize the numbers so everytime there is a negative number the rest of the code the numbers representing the bar graphing are shifted up, preventing the columns from hanging upside down.
 
-![Description of Image](Fixed.png)
+![Fixed Doubles and Negatives](Fixed.png)
 
 ## Steps to Run
 1. **Open the App:** Click the Hugging Face link provided below to open the live application.
